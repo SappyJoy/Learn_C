@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/random.c
+/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/bitcount.c
 stdio.h
--
-stdlib.h
--
-time.h
 -
 

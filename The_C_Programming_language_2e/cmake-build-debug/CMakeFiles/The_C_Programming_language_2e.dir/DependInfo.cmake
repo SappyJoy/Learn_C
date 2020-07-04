@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/random.c" "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/random.c.obj"
+  "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/bitcount.c" "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
