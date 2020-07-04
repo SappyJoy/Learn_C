@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/sappy-joy/CLionProjects/The_C_Programming_language_2e/chapter_1/count_symbols2.c" "/home/sappy-joy/CLionProjects/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_1/count_symbols2.c.o"
+  "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_1/functions.c" "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_1/functions.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
