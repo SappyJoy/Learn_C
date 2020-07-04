@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_1/line_collapsing.c
+C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/random.c
 stdio.h
+-
+stdlib.h
+-
+time.h
 -
 
