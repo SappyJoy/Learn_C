@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_1/functions.c
+/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_1/line_collapsing.c
 stdio.h
 -
 
