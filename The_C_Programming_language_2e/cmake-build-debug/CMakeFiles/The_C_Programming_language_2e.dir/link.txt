@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/The_C_Programming_language_2e.dir/chapter_1/count_symbols2.c.o  -o The_C_Programming_language_2e 
