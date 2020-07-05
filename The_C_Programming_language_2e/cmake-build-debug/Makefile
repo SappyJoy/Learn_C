@@ -123,32 +123,32 @@ The_C_Programming_language_2e/fast:
 	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/build
 .PHONY : The_C_Programming_language_2e/fast
 
-chapter_2/bitcount.o: chapter_2/bitcount.c.o
+chapter_4/strindex.o: chapter_4/strindex.c.o
 
-.PHONY : chapter_2/bitcount.o
+.PHONY : chapter_4/strindex.o
 
 # target to build an object file
-chapter_2/bitcount.c.o:
-	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o
-.PHONY : chapter_2/bitcount.c.o
+chapter_4/strindex.c.o:
+	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o
+.PHONY : chapter_4/strindex.c.o
 
-chapter_2/bitcount.i: chapter_2/bitcount.c.i
+chapter_4/strindex.i: chapter_4/strindex.c.i
 
-.PHONY : chapter_2/bitcount.i
+.PHONY : chapter_4/strindex.i
 
 # target to preprocess a source file
-chapter_2/bitcount.c.i:
-	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.i
-.PHONY : chapter_2/bitcount.c.i
+chapter_4/strindex.c.i:
+	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.i
+.PHONY : chapter_4/strindex.c.i
 
-chapter_2/bitcount.s: chapter_2/bitcount.c.s
+chapter_4/strindex.s: chapter_4/strindex.c.s
 
-.PHONY : chapter_2/bitcount.s
+.PHONY : chapter_4/strindex.s
 
 # target to generate assembly for a file
-chapter_2/bitcount.c.s:
-	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.s
-.PHONY : chapter_2/bitcount.c.s
+chapter_4/strindex.c.s:
+	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.s
+.PHONY : chapter_4/strindex.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... The_C_Programming_language_2e"
-	@echo "... chapter_2/bitcount.o"
-	@echo "... chapter_2/bitcount.i"
-	@echo "... chapter_2/bitcount.s"
+	@echo "... chapter_4/strindex.o"
+	@echo "... chapter_4/strindex.i"
+	@echo "... chapter_4/strindex.s"
 .PHONY : help
 
 

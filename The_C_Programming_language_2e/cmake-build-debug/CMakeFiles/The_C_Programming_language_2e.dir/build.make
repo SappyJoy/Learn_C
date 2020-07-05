@@ -57,27 +57,27 @@ include CMakeFiles/The_C_Programming_language_2e.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/The_C_Programming_language_2e.dir/flags.make
 
-CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o: CMakeFiles/The_C_Programming_language_2e.dir/flags.make
-CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o: ../chapter_2/bitcount.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o   -c /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/bitcount.c
+CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o: CMakeFiles/The_C_Programming_language_2e.dir/flags.make
+CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o: ../chapter_4/strindex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o   -c /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/strindex.c
 
-CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/bitcount.c > CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.i
+CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/strindex.c > CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.i
 
-CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_2/bitcount.c -o CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.s
+CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/strindex.c -o CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.s
 
 # Object files for target The_C_Programming_language_2e
 The_C_Programming_language_2e_OBJECTS = \
-"CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o"
+"CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o"
 
 # External object files for target The_C_Programming_language_2e
 The_C_Programming_language_2e_EXTERNAL_OBJECTS =
 
-The_C_Programming_language_2e: CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o
+The_C_Programming_language_2e: CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o
 The_C_Programming_language_2e: CMakeFiles/The_C_Programming_language_2e.dir/build.make
 The_C_Programming_language_2e: CMakeFiles/The_C_Programming_language_2e.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable The_C_Programming_language_2e"

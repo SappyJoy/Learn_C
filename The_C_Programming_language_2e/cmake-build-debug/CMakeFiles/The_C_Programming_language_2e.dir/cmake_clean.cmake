@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/The_C_Programming_language_2e.dir/chapter_2/bitcount.c.o"
+  "CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o"
   "The_C_Programming_language_2e"
   "The_C_Programming_language_2e.pdb"
 )
