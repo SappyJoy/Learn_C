@@ -123,32 +123,32 @@ The_C_Programming_language_2e/fast:
 	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/build
 .PHONY : The_C_Programming_language_2e/fast
 
-chapter_4/strindex.o: chapter_4/strindex.c.o
+chapter_4/macros.o: chapter_4/macros.c.o
 
-.PHONY : chapter_4/strindex.o
+.PHONY : chapter_4/macros.o
 
 # target to build an object file
-chapter_4/strindex.c.o:
-	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o
-.PHONY : chapter_4/strindex.c.o
+chapter_4/macros.c.o:
+	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/macros.c.o
+.PHONY : chapter_4/macros.c.o
 
-chapter_4/strindex.i: chapter_4/strindex.c.i
+chapter_4/macros.i: chapter_4/macros.c.i
 
-.PHONY : chapter_4/strindex.i
+.PHONY : chapter_4/macros.i
 
 # target to preprocess a source file
-chapter_4/strindex.c.i:
-	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.i
-.PHONY : chapter_4/strindex.c.i
+chapter_4/macros.c.i:
+	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/macros.c.i
+.PHONY : chapter_4/macros.c.i
 
-chapter_4/strindex.s: chapter_4/strindex.c.s
+chapter_4/macros.s: chapter_4/macros.c.s
 
-.PHONY : chapter_4/strindex.s
+.PHONY : chapter_4/macros.s
 
 # target to generate assembly for a file
-chapter_4/strindex.c.s:
-	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.s
-.PHONY : chapter_4/strindex.c.s
+chapter_4/macros.c.s:
+	$(MAKE) -f CMakeFiles/The_C_Programming_language_2e.dir/build.make CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/macros.c.s
+.PHONY : chapter_4/macros.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... The_C_Programming_language_2e"
-	@echo "... chapter_4/strindex.o"
-	@echo "... chapter_4/strindex.i"
-	@echo "... chapter_4/strindex.s"
+	@echo "... chapter_4/macros.o"
+	@echo "... chapter_4/macros.i"
+	@echo "... chapter_4/macros.s"
 .PHONY : help
 
 

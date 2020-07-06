@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/strindex.c">
+		<Unit filename="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/macros.c">
 			<Option target="The_C_Programming_language_2e"/>
 		</Unit>
 		<Unit filename="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/CMakeLists.txt">

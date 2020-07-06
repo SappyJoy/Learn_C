@@ -4,6 +4,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>     /* для объявления atof() */
+#include "calc.h"
 
 #define MAXOP 100       /* максимальный размер операнда или знака */
 #define NUMBER '0'      /* сигнал, что обнаружено число */

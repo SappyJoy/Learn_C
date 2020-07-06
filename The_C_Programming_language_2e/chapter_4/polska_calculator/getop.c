@@ -3,11 +3,7 @@
 //
 #include <stdio.h>
 #include <ctype.h>
-
-#define NUMBER '0'
-
-int getch(void);
-void ungetch(int);
+#include "calc.h"
 
 /* getop: извлекает следующий операнд или знак операции */
 int getop(char s[]) {

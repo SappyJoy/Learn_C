@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/strindex.c" "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/strindex.c.o"
+  "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/macros.c" "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/macros.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

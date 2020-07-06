@@ -4,8 +4,8 @@
 #include <stdio.h>
 #define BUFSIZE 100
 
-char buf[BUFSIZE];      /* буфер для ungetch */
-int bufp = 0;           /* следующая свободная позиция в buf */
+static char buf[BUFSIZE];      /* буфер для ungetch */
+static int bufp = 0;           /* следующая свободная позиция в buf */
 
 /* ввод символа (возможно возвращаемого в поток) */
 int getch(void) {
