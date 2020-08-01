@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/macros.c.o"
+  "CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/printd.c.o"
+  "CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/qsort.c.o"
   "The_C_Programming_language_2e"
   "The_C_Programming_language_2e.pdb"
 )

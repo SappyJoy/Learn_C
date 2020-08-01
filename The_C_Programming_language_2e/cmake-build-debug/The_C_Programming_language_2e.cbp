@@ -4,7 +4,7 @@
 	<Project>
 		<Option title="The_C_Programming_language_2e"/>
 		<Option makefile_is_custom="1"/>
-		<Option compiler="gcc"/>
+		<Option compiler="clang"/>
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
@@ -42,11 +42,10 @@
 				<Option working_dir="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
@@ -62,11 +61,10 @@
 				<Option working_dir="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
@@ -78,7 +76,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/macros.c">
+		<Unit filename="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/printd.c">
+			<Option target="The_C_Programming_language_2e"/>
+		</Unit>
+		<Unit filename="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/qsort.c">
 			<Option target="The_C_Programming_language_2e"/>
 		</Unit>
 		<Unit filename="/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/CMakeLists.txt">

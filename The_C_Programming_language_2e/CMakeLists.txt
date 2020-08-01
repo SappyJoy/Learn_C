@@ -3,4 +3,4 @@ project(The_C_Programming_language_2e C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(The_C_Programming_language_2e chapter_4/macros.c)
+add_executable(The_C_Programming_language_2e chapter_4/qsort.c chapter_4/printd.c)

@@ -4,9 +4,10 @@
 
 #include <stdio.h>
 
+// printd: вывод числа n десятичными цифрами
 void printd(int n) {
     if (n < 0) {
-        putchar('0');
+        putchar('-');
         n = -n;
     }
     if (n / 10)

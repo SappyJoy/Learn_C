@@ -1,4 +1,4 @@
-/opt/clion-2020.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e
+/opt/clion-2020.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug

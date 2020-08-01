@@ -1,6 +1,24 @@
 //
 // Created by sappy-joy on 06.07.2020.
 //
+#include <stdio.h>
+
+void qsort(int v[], int left, int right);
+void printd(int n);
+
+main() {
+    int n;
+    scanf("%d", &n);
+    int a[n];
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &a[i]);
+    }
+    qsort(a, 0, n - 1);
+    for (int i = 0; i < n; i++) {
+        printd(a[i]);
+        printf(" ");
+    }
+}
 
 // qsort: сортировка v[left]...v[right] в порядке возрастания
 void qsort(int v[], int left, int right) {

@@ -1,6 +1,7 @@
 //
 // Created by sappy-joy on 04.07.2020.
 //
+void reverse(char s[]);
 
 void itoa(int n, char s[]) {
     int i, sign;

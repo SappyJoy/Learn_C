@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/macros.c.o  -o The_C_Programming_language_2e 
+/usr/bin/clang -g   CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/qsort.c.o CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/printd.c.o  -o The_C_Programming_language_2e 
