@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/printd.c" "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/printd.c.o"
-  "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/qsort.c" "/home/sappy-joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/qsort.c.o"
+  "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/printd.c" "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/printd.c.obj"
+  "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/chapter_4/qsort.c" "C:/Users/Sappy-Joy/CLionProjects/Learn_C/The_C_Programming_language_2e/cmake-build-debug/CMakeFiles/The_C_Programming_language_2e.dir/chapter_4/qsort.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "Clang")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
